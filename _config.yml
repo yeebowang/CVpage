@@ -1,7 +1,7 @@
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Wang Yibo (王乙卜)
+title: Wang Yibo
 description: Welcom to download my CV from this GitHub Page.
 show_downloads: false
 #google_analytics:
