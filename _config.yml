@@ -4,5 +4,5 @@ plugins:
 title: 王乙卜 (Wang Yibo)
 description: Welcom to download my CV from this GitHub Page.
 show_downloads: false
-google_analytics:
-theme: jekyll-theme-architect
+#google_analytics:
+#theme: jekyll-theme-architect
